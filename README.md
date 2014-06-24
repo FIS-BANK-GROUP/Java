@@ -1,4 +1,0 @@
-Java
-====
-
-Coding in Java
